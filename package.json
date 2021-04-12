@@ -1,0 +1,15 @@
+{
+  "name": "de-voice",
+  "version": "1.0.0",
+  "description": "Building node module package that reversed an item",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/De-voice"
+  },
+  "author": "David",
+  "license": "MIT"
+}
