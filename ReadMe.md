@@ -4,7 +4,7 @@ Reverse the word of a sentence
 
 ## How to install
 ```sh
-npm install @de-voice/reverse-sent
+npm install @de-voice/de-voice
 
 # API
 
